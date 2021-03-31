@@ -1,0 +1,8 @@
+com\elaachiV2\pageObjects\AddNewReservation.class
+com\elaachiV2\pageObjects\LoginPage.class
+com\elaachiV2\testCases\TC_LoginTest_001.class
+com\elaachiV2\testCases\BaseClass.class
+com\elaachiV2\Utilities\Reporting.class
+com\elaachiV2\testCases\AdminForgotPwd.class
+com\elaachiV2\testCases\TC_AddNewReservation_002.class
+com\elaachiV2\Utilities\ReadConfig.class

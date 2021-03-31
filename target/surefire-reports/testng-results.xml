@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="elaachiV2" duration-ms="34217" started-at="2021-03-30T17:01:00Z" finished-at="2021-03-30T17:01:34Z">
+    <groups>
+    </groups>
+    <test name="RestaurantApp test" duration-ms="34217" started-at="2021-03-30T17:01:00Z" finished-at="2021-03-30T17:01:34Z">
+      <class name="com.elaachiV2.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.elaachiV2.testCases.TC_LoginTest_001@30c7da1e]" name="setup" is-config="true" duration-ms="17062" started-at="2021-03-30T17:01:00Z" finished-at="2021-03-30T17:01:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.elaachiV2.testCases.TC_LoginTest_001@30c7da1e]" name="LoginTest" duration-ms="10511" started-at="2021-03-30T17:01:17Z" finished-at="2021-03-30T17:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.elaachiV2.testCases.TC_LoginTest_001@30c7da1e]" name="tearDown" is-config="true" duration-ms="6390" started-at="2021-03-30T17:01:28Z" finished-at="2021-03-30T17:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.elaachiV2.testCases.TC_LoginTest_001 -->
+    </test> <!-- RestaurantApp test -->
+  </suite> <!-- elaachiV2 -->
+</testng-results>
